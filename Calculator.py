@@ -31,3 +31,4 @@ while ulang:
         else:
             print ("Input Salah")
             tanya = True
+            
